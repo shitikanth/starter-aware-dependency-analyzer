@@ -55,7 +55,7 @@
     <!-- dependency versions -->
     <junit-jupiter.version>5.11.2</junit-jupiter.version>
     <maven-core.version>3.9.12</maven-core.version>
-    <maven-dependency-analyzer.version>1.15.0</maven-dependency-analyzer.version>
+    <maven-dependency-analyzer.version>1.17.0</maven-dependency-analyzer.version>
     <maven-dependency-tree.version>3.3.0</maven-dependency-tree.version>
   </properties>
 
