@@ -10,6 +10,7 @@
 
   <name>Starter-Aware Dependency Analyzer</name>
   <description>A custom analyzer for use with `maven-dependency-plugin` that reduces false positives with Spring Boot starters</description>
+  <url>https://github.com/shitikanth/starter-aware-dependency-analyzer</url>
 
   <licenses>
     <license>
